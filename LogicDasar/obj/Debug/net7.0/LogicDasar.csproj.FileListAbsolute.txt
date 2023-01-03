@@ -1,0 +1,15 @@
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/LogicDasar/bin/Debug/net7.0/LogicDasar
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/LogicDasar/bin/Debug/net7.0/LogicDasar.deps.json
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/LogicDasar/bin/Debug/net7.0/LogicDasar.runtimeconfig.json
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/LogicDasar/bin/Debug/net7.0/LogicDasar.dll
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/LogicDasar/bin/Debug/net7.0/LogicDasar.pdb
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/LogicDasar/obj/Debug/net7.0/LogicDasar.csproj.AssemblyReference.cache
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/LogicDasar/obj/Debug/net7.0/LogicDasar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/LogicDasar/obj/Debug/net7.0/LogicDasar.AssemblyInfoInputs.cache
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/LogicDasar/obj/Debug/net7.0/LogicDasar.AssemblyInfo.cs
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/LogicDasar/obj/Debug/net7.0/LogicDasar.csproj.CoreCompileInputs.cache
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/LogicDasar/obj/Debug/net7.0/LogicDasar.dll
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/LogicDasar/obj/Debug/net7.0/refint/LogicDasar.dll
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/LogicDasar/obj/Debug/net7.0/LogicDasar.pdb
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/LogicDasar/obj/Debug/net7.0/LogicDasar.genruntimeconfig.cache
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/LogicDasar/obj/Debug/net7.0/ref/LogicDasar.dll

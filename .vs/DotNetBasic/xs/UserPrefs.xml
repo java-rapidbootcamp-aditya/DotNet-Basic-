@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{F86C9654-5170-45B5-BE05-496F7077772E}|Default">
+  <MonoDevelop.Ide.ItemProperties.LogicDasar PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Statment PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LogicDasar/MainLogic.cs">
+    <Files>
+      <File FileName="LogicDasar/Program.cs" Line="11" Column="36" />
+      <File FileName="Statment/Declarative.cs" Line="16" Column="1" />
+      <File FileName="Statment/MainStatment.cs" Line="1" Column="1" />
+      <File FileName="Statment/ForStatment.cs" Line="1" Column="1" />
+      <File FileName="LogicDasar/Logic02Soal01.cs" Line="32" Column="1" />
+      <File FileName="LogicDasar/Logic02Soal02.cs" Line="27" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DotNetBasic" expanded="True">
+            <Node name="HelloWorld" expanded="True" />
+            <Node name="LogicDasar" expanded="True">
+              <Node name="MainLogic.cs" selected="True" />
+            </Node>
+            <Node name="Statment" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.HelloWorld PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/Statment/bin/Debug/net7.0/Statment
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/Statment/bin/Debug/net7.0/Statment.deps.json
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/Statment/bin/Debug/net7.0/Statment.runtimeconfig.json
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/Statment/bin/Debug/net7.0/Statment.dll
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/Statment/bin/Debug/net7.0/Statment.pdb
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/Statment/obj/Debug/net7.0/Statment.csproj.AssemblyReference.cache
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/Statment/obj/Debug/net7.0/Statment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/Statment/obj/Debug/net7.0/Statment.AssemblyInfoInputs.cache
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/Statment/obj/Debug/net7.0/Statment.AssemblyInfo.cs
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/Statment/obj/Debug/net7.0/Statment.csproj.CoreCompileInputs.cache
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/Statment/obj/Debug/net7.0/Statment.dll
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/Statment/obj/Debug/net7.0/refint/Statment.dll
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/Statment/obj/Debug/net7.0/Statment.pdb
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/Statment/obj/Debug/net7.0/Statment.genruntimeconfig.cache
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/Statment/obj/Debug/net7.0/ref/Statment.dll

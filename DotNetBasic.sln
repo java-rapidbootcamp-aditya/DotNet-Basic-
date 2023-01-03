@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{1F8D2994-361D-4A4C-870A-D233B30CEBB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Statment", "Statment\Statment.csproj", "{9FCB6FED-1654-4298-936C-EC58C420FB6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicDasar", "LogicDasar\LogicDasar.csproj", "{F86C9654-5170-45B5-BE05-496F7077772E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F8D2994-361D-4A4C-870A-D233B30CEBB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F8D2994-361D-4A4C-870A-D233B30CEBB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F8D2994-361D-4A4C-870A-D233B30CEBB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F8D2994-361D-4A4C-870A-D233B30CEBB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FCB6FED-1654-4298-936C-EC58C420FB6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FCB6FED-1654-4298-936C-EC58C420FB6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FCB6FED-1654-4298-936C-EC58C420FB6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FCB6FED-1654-4298-936C-EC58C420FB6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F86C9654-5170-45B5-BE05-496F7077772E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F86C9654-5170-45B5-BE05-496F7077772E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F86C9654-5170-45B5-BE05-496F7077772E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F86C9654-5170-45B5-BE05-496F7077772E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F8F766A-CBF8-4AE9-B4AF-6A7963E5BD9F}
+	EndGlobalSection
+EndGlobal

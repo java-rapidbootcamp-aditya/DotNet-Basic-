@@ -1,0 +1,15 @@
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/HelloWorld/bin/Debug/net7.0/HelloWorld
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/Users/marf/Documents/DotNet-Basic/DotNet-Basic/DotNetBasic/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll
